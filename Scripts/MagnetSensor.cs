@@ -1,3 +1,6 @@
+﻿Copyright (c) 2014, CaseyB
+All rights reserved.
+
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
