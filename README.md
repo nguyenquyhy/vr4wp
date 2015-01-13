@@ -1,6 +1,8 @@
 vr4wp
 =====
 
+*** MagnetSensor is not currently working
+
 Supports Google Cardboard for Windows Phone in Unity3D
 
 Requires the Cardboard SDK for Unity - https://developers.google.com/cardboard/unity/
